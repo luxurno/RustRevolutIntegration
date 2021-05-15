@@ -1,6 +1,7 @@
 ## Created for Revolut API integration
 
 ### Requirements:
+- Send report if favourites list is increasing or decreasing
 - Provide exchange from PLN to USD in good specific course 
   
   I've checked at pricing page with `Metal` plan and there wasn't more about it. 

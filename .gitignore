@@ -1,2 +1,5 @@
 # Excluding file list
 .idea/*
+
+# Excluding compiled target
+target/*
